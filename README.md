@@ -39,3 +39,19 @@ Options
   * 4: screen
 * `-o`or `--out` specifies the output file path. If not specified, input file will be erased.
 * `-b`or `--backup` creates a backup of the original file in case no output is specified to avoid erasing the original file. 
+
+
+
+Usage (for newbies)
+
+copy the python script and save as pdfc.py.
+
+Now, you can use as follow.
+
+In the termial, type
+python3 pdfc.py -o out.pdf input.pdf
+
+Here, input.pdf is the file you want to convert. 
+
+
+
